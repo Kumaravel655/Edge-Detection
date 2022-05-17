@@ -136,7 +136,7 @@ plt.show()
 
 
 ### LAPLACIAN EDGE DETECTOR
-![Screenshot (114)](https://user-images.githubusercontent.com/75235334/168868716-0c71158d-6be6-4ce9-958f-f0de78083f1a.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/75235334/168869190-5b012a10-6acd-4183-a423-5c396e24f889.png)
 <br>
 <br>
 <br>
@@ -146,7 +146,7 @@ plt.show()
 
 
 ### CANNY EDGE DETECTOR
-![Screenshot_639](https://user-images.githubusercontent.com/75235455/168431082-29f746c4-80e8-484e-b3a2-1a9c666754b8.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/75235334/168868716-0c71158d-6be6-4ce9-958f-f0de78083f1a.png)
 <br>
 <br>
 <br>
